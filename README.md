@@ -1,8 +1,8 @@
 # Arcane Delta Force Software
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/9fa118c4-b75d-4114-854b-cee01828b3c9" width="200">
-    <img src="https://github.com/user-attachments/assets/675f1fa8-7250-4043-98b4-4e06e1657cdf" width="200">
+    <img src="https://github.com/user-attachments/assets/9fa118c4-b75d-4114-854b-cee01828b3c9" width="400">
+    <img src="https://github.com/user-attachments/assets/675f1fa8-7250-4043-98b4-4e06e1657cdf" width="400">
 </p>
 
 ## Description
